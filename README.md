@@ -1,2 +1,1 @@
-# Jenkins-game
-jenkins test
+echo " hello world"
